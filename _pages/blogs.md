@@ -2,8 +2,8 @@
 title:  "Blogs"
 layout: archive
 permalink: /Blogs/
-# author_profile: true
-comments: false
+author_profile: true
+comments: true
 ---
 
-Nothing more than a test bruh
+This is my qweqewwqe3we page.
