@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-#
+
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Your Name"
+  name             :  "Jānis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Es esmu tavs labais baņķieris! Turpmāk šeit dalīšos ar finanšu padomiem, kas tev ietaupīs daudz naudas un laika, ņemot kredītu vai apdrošināšanu kādā no Latvijas kredītiestādēm."
   location         : "Rīga, Latvija"
