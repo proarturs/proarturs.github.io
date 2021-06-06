@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Tutorialis"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Blogs"
+  #- title: "Tutorialis"
+   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "BLOGS"
     url: https://banker.lv/Blogs/
-  - title: "Info"
+  - title: "INFO"
     url: https://banker.lv/info/
    #- title: "Sample Posts"
     #url: /year-archive/
